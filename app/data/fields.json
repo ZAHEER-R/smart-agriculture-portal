@@ -1,0 +1,62 @@
+[
+  {
+    "field_id": "F001",
+    "crop_type": "Wheat",
+    "soil_moisture": 28,
+    "water_consumption": 1250,
+    "temperature": 34,
+    "irrigation_status": "Needs Irrigation",
+    "next_irrigation": "2026-10-23 06:00",
+    "crop_health": "Moderate"
+  },
+  {
+    "field_id": "F002",
+    "crop_type": "Rice",
+    "soil_moisture": 45,
+    "water_consumption": 2100,
+    "temperature": 31,
+    "irrigation_status": "Adequate",
+    "next_irrigation": "2026-10-25 07:00",
+    "crop_health": "Healthy"
+  },
+  {
+    "field_id": "F003",
+    "crop_type": "Maize",
+    "soil_moisture": 22,
+    "water_consumption": 980,
+    "temperature": 36,
+    "irrigation_status": "Needs Irrigation",
+    "next_irrigation": "2026-10-22 18:00",
+    "crop_health": "Stressed"
+  },
+  {
+    "field_id": "F004",
+    "crop_type": "Cotton",
+    "soil_moisture": 38,
+    "water_consumption": 1450,
+    "temperature": 33,
+    "irrigation_status": "Adequate",
+    "next_irrigation": "2026-10-24 05:30",
+    "crop_health": "Healthy"
+  },
+  {
+    "field_id": "F005",
+    "crop_type": "Sugarcane",
+    "soil_moisture": 19,
+    "water_consumption": 2800,
+    "temperature": 35,
+    "irrigation_status": "Critical",
+    "next_irrigation": "2026-10-22 14:00",
+    "crop_health": "Critical"
+  },
+  {
+    "field_id": "F006",
+    "crop_type": "Tomato",
+    "soil_moisture": 41,
+    "water_consumption": 760,
+    "temperature": 29,
+    "irrigation_status": "Adequate",
+    "next_irrigation": "2026-10-26 06:30",
+    "crop_health": "Healthy"
+  }
+]
